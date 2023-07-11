@@ -1,10 +1,9 @@
 # CodeEat
 
-![screenshot](https://github.com/junsoopooh/junsoopooh.github.io/blob/master/project/project/image.png?raw=true)
+<img width="964" alt="image" src="https://github.com/whwogur/codeeat/assets/111280407/819c2aab-a291-44fd-9bf0-d50ec71a6266">
+
 
 ## 참고자료 
-
-노션 링크 : [코드잇 노션](https://www.notion.so/6-AlgoEat-627732bdb859410bb173f34f7d84330a)
 
 발표 PPT : [발표 PPT](https://github.com/whwogur/codeeat/files/12012454/_._._230706.pdf)
 
