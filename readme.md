@@ -6,11 +6,9 @@
 
 노션 링크 : [코드잇 노션](https://www.notion.so/6-AlgoEat-627732bdb859410bb173f34f7d84330a)
 
-발표 PPT : [발표 PPT](https://github.com/junsoopooh/junsoopooh.github.io/blob/master/project/project/codeeat_PPT.pdf)
+발표 PPT : [발표 PPT]()
 
-포스터 : [포스터](https://github.com/junsoopooh/junsoopooh.github.io/blob/master/project/project/CodeEat_Poster.pdf)
-
-시연 영상 : [시연 영상](https://drive.google.com/drive/folders/1EF5lpVpnaSRqlo7-A2ImtDPM1MCD8iqy)
+포스터 : [포스터]()
 
 
 
