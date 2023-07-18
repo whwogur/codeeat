@@ -5,6 +5,9 @@
 코딩을 처음 접하는 어린이들을 위한 미니 게임 플랫폼. 코드잇 입니다.
 
 ------
+<div>
+<img width="800" alt="poster" src="https://github.com/whwogur/codeeat/assets/111280407/54156c37-a83f-4d4f-9603-54e59fcff8b0">
+</div>
 
 ## <span style="font-size:40px;">⚙️기능</span>
 
