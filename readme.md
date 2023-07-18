@@ -60,29 +60,6 @@
 
 
 
-## <span style="font-size:40px;">💾레퍼런스</span>
-
-| 자료                                                         | 설명                                           |
-| ------------------------------------------------------------ | ---------------------------------------------- |
-| [코드잇 포스터](https://github.com/junsoopooh/junsoopooh.github.io/blob/master/project/project/CodeEat_Poster.pdf) | A1 Size의 포스터로 요약한 프로젝트 내용입니다. |
-| [코드잇 서비스 주소](codeeat.site)                           | 서비스를 체험해볼 수 있습니다.                 |
-| [코드잇 발표 PPT](https://github.com/junsoopooh/junsoopooh.github.io/blob/master/project/project/codeeat_PPT.pdf) | 프로젝트 최종 발표 당시의 PPT입니다.           |
-
-------
-
-## <span style="font-size:40px;">🫱🏼‍🫲🏼팀소개</span>
-
-<span style="font-size:25px;">🐶**배준수(BE)**</span> : https://github.com/junsoopooh
-
-<span style="font-size:25px;">🐱**조재혁(BE)**</span> : https://github.com/whwogur
-
-<span style="font-size:25px;">🦄**김초혜(BE)**</span> : https://github.com/chohk10
-
-<span style="font-size:25px;">🐯**서준택(FE)**</span> : https://github.com/Taek222
-
-<span style="font-size:25px;">🐰**서지원(FE)**</span> : https://github.com/unauthorized-401
-
-
 
 
 
