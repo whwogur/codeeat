@@ -61,6 +61,11 @@
 
 ------
 
+|자료|설명|
+|----|----|
+|[~~코드잇 서비스 주소~~](http://codeeat.site/)|~~서비스를 체험해볼 수 있습니다.~~ _배포중단_|
+|[코드잇 깃허브](https://github.com/mosmosfromjungle/mosmos)|실제 코드를 확인할 수 있습니다.|
+|[코드잇 발표 PPT](../image/codeeat/codeeat_ppt.pdf)|프로젝트 최종 발표 당시의 PPT입니다.|
 
 
 
